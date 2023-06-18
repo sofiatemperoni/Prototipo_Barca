@@ -137,8 +137,7 @@ def handle_click(event):
     if 100 <= x <= 1000 and 100 <= y <= 1000:
         print("Clicked on the specified portion of the screen!")
         #play_audio("./nomefile.mp3")
-        SpeakText("Buongiorno caro amico, ti auguro una buona giornata!") #qui leggo la storia
-
+        SpeakText("Ciao, questa è la storia che dovrei raccontare. Ancora non l'ho imparata quindi mi sembra giusto che qualcuno me la insegni. Sofia dimmi cosa devo direeee") #qui leggo la storia
 
 
 
